@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+
+
+    <string name="Sobrepeso">Tienes sobrepeso</string>
+    <string name="PesoNormal">Estas en tu peso</string>
+    <string name="Infrapeso">Tienes un peso inferior</string>
+    <string name="Obesidad">Eres obeso</string>
+    <string name="TextSobrepeso">Tienes un peso por encima de lo normal</string>
+    <string name="TextNormal">Estás en tu peso óptimo</string>
+    <string name="TextInfrapeso">Tienes un peso por debajo de tu peso óptimo</string>
+    <string name="TextObesidad">Tienes un problema de sobrepeso</string>
+
+
+</resources>
